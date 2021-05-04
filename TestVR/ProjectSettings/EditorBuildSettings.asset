@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Oculus/VR/Scenes/HandTest_Custom.unity
-    guid: c884d076d6398b54492bcc64bbe30bf5
+    path: Assets/Scenes/Testing.unity
+    guid: 52c744611656c429f81ec97b84137b3d
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 360efc1cf380742feb0ed0723f25626a, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a68b02b6563ac43f9a66a49886476f14, type: 2}
